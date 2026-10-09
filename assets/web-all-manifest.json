@@ -1517,10 +1517,10 @@
       "bytes": 99532
     },
     {
-      "source": "3.1 (needs to be gif)",
-      "path": "assets/web-all/20 Noctuary/02-3.webp",
-      "kind": "image",
-      "bytes": 21880
+      "source": "3.1.mp4",
+      "path": "assets/web-all/20 Noctuary/02-3.mp4",
+      "kind": "video",
+      "bytes": 5871943
     },
     {
       "source": "3.2",
